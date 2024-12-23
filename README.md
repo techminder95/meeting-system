@@ -9,7 +9,7 @@
   </p>
 </p>
 
-![demo-optimized](https://github.com/techminer95/Meeting-System/assets/15647967/8f8a849f-a575-48e3-8676-09e98c4d963d)
+![demo-optimized](https://github.com/techminer95/Meeting-System/raw/master/docs/demo-optimized.gif)
 
 <p align="center">
   <img src="https://github.com/techminer95/Meeting-System/raw/master/docs/screenshots/screenshot1.png" width="270" height="150">
