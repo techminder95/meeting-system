@@ -9,8 +9,7 @@
   </p>
 </p>
 
-![demo-optimized](https://github.com/techminer95/Meeting-System/raw/master/docs/demo-optimized.gif)
-<img src="[https://github.com/techminer95/Meeting-System/raw/master/docs/screenshots/screenshot1.png](https://github.com/techminer95/Meeting-System/raw/master/docs/demo-optimized.gif)" >
+![demo-optimized](docs/demo-optimized.gif)
 <p align="center">
   <img src="https://github.com/techminer95/Meeting-System/raw/master/docs/screenshots/screenshot1.png" width="270" height="150">
   <img src="https://github.com/techminer95/Meeting-System/raw/master/docs/screenshots/screenshot2.png" width="270" height="150">
