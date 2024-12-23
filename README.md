@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="#" target="_blank">
-      <img src="./frontend/public/images/Meeting-System_logo.png" alt="Meeting-System" height="72">
+      <img src="./frontend/public/images/meetsy_logo.png" alt="Meeting-System" height="72">
     </a>
   </p>
   <p align="center">
