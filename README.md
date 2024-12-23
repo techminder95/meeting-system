@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="#" target="_blank">
-      <img src="./frontend/public/images/meetsy_logo.png" alt="Meetsy" height="72">
+      <img src="./frontend/public/images/Meeting-System_logo.png" alt="Meeting-System" height="72">
     </a>
   </p>
   <p align="center">
@@ -9,16 +9,16 @@
   </p>
 </p>
 
-![demo-optimized](https://github.com/techminer95/meetsy/assets/15647967/8f8a849f-a575-48e3-8676-09e98c4d963d)
+![demo-optimized](https://github.com/techminer95/Meeting-System/assets/15647967/8f8a849f-a575-48e3-8676-09e98c4d963d)
 
 <p align="center">
-  <img src="https://github.com/techminer95/meetsy/raw/master/docs/screenshots/screenshot1.png" width="270" height="150">
-  <img src="https://github.com/techminer95/meetsy/raw/master/docs/screenshots/screenshot2.png" width="270" height="150">
-  <img src="https://github.com/techminer95/meetsy/raw/master/docs/screenshots/screenshot3.png" width="270" height="150">
+  <img src="https://github.com/techminer95/Meeting-System/raw/master/docs/screenshots/screenshot1.png" width="270" height="150">
+  <img src="https://github.com/techminer95/Meeting-System/raw/master/docs/screenshots/screenshot2.png" width="270" height="150">
+  <img src="https://github.com/techminer95/Meeting-System/raw/master/docs/screenshots/screenshot3.png" width="270" height="150">
 </p>
 
 
-# What's Meetsy?
+# What's Meeting-System?
 
 We're an open source calendly alternative. We allow you to select your free time so you can send it to your friends or colleagues to book it.
 
