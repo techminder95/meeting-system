@@ -9,12 +9,12 @@
   </p>
 </p>
 
-![demo-optimized](https://github.com/robertwt7/meetsy/assets/15647967/8f8a849f-a575-48e3-8676-09e98c4d963d)
+![demo-optimized](https://github.com/techminer95/meetsy/assets/15647967/8f8a849f-a575-48e3-8676-09e98c4d963d)
 
 <p align="center">
-  <img src="https://github.com/robertwt7/meetsy/raw/master/docs/screenshots/screenshot1.png" width="270" height="150">
-  <img src="https://github.com/robertwt7/meetsy/raw/master/docs/screenshots/screenshot2.png" width="270" height="150">
-  <img src="https://github.com/robertwt7/meetsy/raw/master/docs/screenshots/screenshot3.png" width="270" height="150">
+  <img src="https://github.com/techminer95/meetsy/raw/master/docs/screenshots/screenshot1.png" width="270" height="150">
+  <img src="https://github.com/techminer95/meetsy/raw/master/docs/screenshots/screenshot2.png" width="270" height="150">
+  <img src="https://github.com/techminer95/meetsy/raw/master/docs/screenshots/screenshot3.png" width="270" height="150">
 </p>
 
 
